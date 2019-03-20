@@ -66,27 +66,31 @@
 ### Gif截图演示
 
 
-![image](https://github.com/chaychan/TanTanAssistant/blob/master/kuaihua.gif?raw=true)
+![image](https://github.com/kuaihua/TanTanKuaiHua/blob/master/kuaihua.gif?raw=true)
 
 
 ### 下载地址
 
-[点击下载体验](https://raw.githubusercontent.com/chaychan/TanTanAssistant/master/kuaihua.apk)
+[点击下载体验](https://raw.githubusercontent.com/kuaihua/TanTanKuaiHua/master/kuaihua.apk)
 
 扫码下载（建议使用带有扫码功能的浏览器，微信扫描不允许下载）：
 
-![image](https://github.com/chaychan/TanTanAssistant/blob/master/qr_code_download.png?raw=true)
+![image](https://github.com/kuaihua/TanTanKuaiHua/blob/master/qr_code_download.png?raw=true)
 
 
 ### 支持自定义滑动模式
 
-![image](https://github.com/chaychan/TanTanAssistant/blob/master/custom_mode.jpg?raw=true)
+![image](https://github.com/kuaihua/TanTanKuaiHua/blob/master/custom_mode.jpg?raw=true)
+
+### 支持配对成功打招呼
+
+![image](https://github.com/kuaihua/TanTanKuaiHua/blob/master/say_hello.jpg?raw=true)
 
 
 ### 免费试用
 
 探探快滑提供免费试用，每次打开App有20次自动右滑的机会，即使不购买激活码，也可以使用20次自动右滑，用完会立刻停止右滑，如果你想要无限右滑的话，需要购买激活码激活后便可以无限右滑。
 
-![image](https://github.com/chaychan/TanTanAssistant/blob/master/no_free_count.jpg?raw=true)
+![image](https://github.com/kuaihua/TanTanKuaiHua/blob/master/no_free_count.jpg?raw=true)
 
 
