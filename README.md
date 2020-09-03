@@ -7,6 +7,11 @@
 
 [http://www.kuaihua520.com/](http://www.kuaihua520.com/)
 
+### 2.8.0版本特性
+- 新增发现页自动点赞功能；
+- 新增随机概率左右滑动的功能；
+- 新增滑动权限设置，解决滑动偶尔会出现停止的问题
+
 ### 2.1.0版本特性
 - 新增按钮校准功能，用于探探新版界面的适配，一般不用设置；
 - 修复在华为手机上可能出现突然停止的问题；
@@ -82,9 +87,9 @@
 
 ### 下载地址
 
-[点击下载体验](https://raw.githubusercontent.com/kuaihua/TanTanKuaiHua/master/kuaihua.apk)
+[点击下载体验](http://www.kuaihua520.com)
 
-扫码下载（建议使用带有扫码功能的浏览器，微信扫描不允许下载）：
+扫码下载：
 
 ![image](https://github.com/kuaihua/TanTanKuaiHua/blob/master/qr_code_download.png?raw=true)
 
